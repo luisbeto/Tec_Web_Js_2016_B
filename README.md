@@ -59,9 +59,9 @@ var mensaje="Hola mundo";
 
 Para usar tablas necesitamos definir las filas con |
 
-|Columna 1|Columna 2|Columna3|Columna 4|
-|-|-|-|-|
-|Valor1 C1|Valor1 C2|Valor1 C3|Valor1 C4|
-|Valor2 C1|Valor2 C2|Valor2 C3|Valor2 C4|
-|Valor3 C1|Valor3 C2|Valor3 C3|Valor3 C4|
-|Valor4 C1|Valor4 C2|Valor4 C3|Valor4 C4|
+Columna 1|Columna 2|Columna 3|Columna 4
+---|---|---|---
+Valor1 C1|Valor1 C2|Valor1 C3|Valor1 C4
+Valor2 C1|Valor2 C2|Valor2 C3|Valor2 C4
+Valor3 C1|Valor3 C2|Valor3 C3|Valor3 C4
+Valor4 C1|Valor4 C2|Valor4 C3|Valor4 C4
