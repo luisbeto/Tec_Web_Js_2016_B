@@ -97,5 +97,5 @@ ___
 ## Videos de youtube
 
 <a href="https://www.youtube.com/watch?v=UqyT8IEBkvY" 
-target="_blank"><img src="http://nodeframework.com/assets/img/js.png "Javascript"" 
+target="_blank"><img src="http://nodeframework.com/assets/img/js.png " 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
