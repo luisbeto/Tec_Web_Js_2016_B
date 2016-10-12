@@ -65,3 +65,15 @@ Valor1 C1|Valor1 C2|Valor1 C3|Valor1 C4
 Valor2 C1|Valor2 C2|Valor2 C3|Valor2 C4
 Valor3 C1|Valor3 C2|Valor3 C3|Valor3 C4
 Valor4 C1|Valor4 C2|Valor4 C3|Valor4 C4
+
+## Citas (no de humanos sino de texto)
+
+Para escribir varias lineas de citas solamente las concatenamos en la siguiente linea utilizando mayor que `>`:
+
+> Yo solo se, que nada se. NO OLVIDARSE EL SALTO DE LINEA.
+
+> Socrates. NO OLVIDARSE EL SALTO DE LINEA.
+
+Sino utilizamos una cita en una linea con mayor que `>`:
+
+> Y si me matas, ¿Me muero?. NO OLVIDARSE EL SALTO DE LINEA.
