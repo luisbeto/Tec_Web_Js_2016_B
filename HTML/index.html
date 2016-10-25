@@ -22,17 +22,40 @@
         p{
             background-color: aquamarine;
         }
+        cualquiera{
+            background-color: cyan
+        }
+        /*Clases
+        .nombreClase{estilo}*/
+        
+        .nombreClaseRojo{
+            background-color: red;
+        }
+        .nombreClaseAzul{
+            background-color: blue;
+        }
+        .nombreClaseAmarillo{
+            background-color: yellow;
+        }
+        
+        /*Por ID*/
+        
+        #parrafoVerde{
+            background-color: greenyellow;
+        }
         /*nombrePropiedad:valorPropiedad*/
     </style>
 </head>
 
 <body>
     <h1>Hola</h1>
-    <p>Parrafo</p>
-    <h1>Amigos</h1>
-    <p>Parrafo 2</p>
+    <p class="nombreClaseRojo">Parrafo Rojo</p>
+    <h1 class="nombreClaseAmarillo">Amigos</h1>
+    <p class="nombreClaseAzul">Parrafo Azul</p>
     <h1>Politecnicos</h1>
-    <p>Parrafo 3</p>
+    <p id="parrafoVerde" class="nombreClaseAmarillo">Parrafo Amarillo</p>
+    <p>Ultimo parrafo sin clase</p>
+    <cualquiera>Hola</cualquiera>
 </body>
 
 </html>
